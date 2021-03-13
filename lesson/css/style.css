@@ -190,10 +190,12 @@ h6{
 	margin-top: 104px;
 	display: inline-block;
 }
-.LinkedIn{
+.col-1{
 	display: inline-block;
 	font-size: 14px;
 	line-height: 36px;
+	position: relative;
+	bottom: -101px;
 }
 .navigation{
 	display: inline-block;
@@ -205,8 +207,8 @@ h6{
 .seting{
 	font-size: 6px;
 	display: inline-block;
-	margin-left: 69px;
-	margin-right: 69px;
+	margin-left: 35px;
+	margin-right: 35px;
 }
 button.btn.btn-primary.btn-lg.btn-block{
 	font-size: 12px;
@@ -217,5 +219,8 @@ button.btn.btn-secondary.btn-lg.btn-block{
 	font-size: 12px;
 	padding: 11px 74px 10px 15px;
 }
-
+.col-11{
+	position: relative;
+	right: -100px;
+}
 
